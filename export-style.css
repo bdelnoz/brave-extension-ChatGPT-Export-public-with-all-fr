@@ -1,0 +1,71 @@
+/* ChatGPT Export - export-style.css - v4.0.7 - @NoXoZ.be */
+#cgx-widget{position:fixed;z-index:2147483647;top:calc(100vh - 225px);left:calc(86vw - 130px);width:250px;max-width:calc(100vw - 16px);box-sizing:border-box;padding:7px;border:1px solid rgba(255,23,68,.95);border-radius:13px;background:rgba(17,24,39,.96);color:#f9fafb;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;font-size:11px;line-height:1.25;box-shadow:0 10px 34px rgba(0,0,0,.36);user-select:none}#cgx-widget *{box-sizing:border-box}#cgx-widget.cgx-dev{width:326px}#cgx-widget.cgx-mode-maxi{width:326px;min-width:326px;min-height:260px;overflow:auto}#cgx-widget.cgx-mode-mini{width:126px;padding:5px;border-radius:12px}#cgx-widget.cgx-mode-button{width:62px;padding:4px;border-radius:10px;background:rgba(8,10,12,.97)}#cgx-widget.cgx-exporting{box-shadow:0 10px 34px rgba(0,0,0,.42),0 0 22px rgba(255,23,68,.22)}.cgx-header,.cgx-mini-wrap,.cgx-button-shell{cursor:move}.cgx-header{display:flex;flex-direction:column;gap:5px;margin-bottom:6px}.cgx-title-row{display:flex;align-items:center;min-width:0}.cgx-title{flex:1;min-width:0;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;text-align:center;color:#f9fafb;font-size:11.5px;font-weight:900}.cgx-controls-row{display:flex;align-items:center;gap:4px;min-width:0}.cgx-spacer{flex:1 1 auto}.cgx-head-btn,.cgx-export,.cgx-stop,.cgx-range,.cgx-step,.cgx-choice,.cgx-small,.cgx-mini-main,.cgx-button-exp{border:1px solid rgba(255,255,255,.18);background:rgba(255,255,255,.08);color:#e5e7eb;font-weight:900;cursor:pointer}.cgx-head-btn{height:20px;min-width:22px;padding:0 6px;border-radius:999px;font-size:10px;line-height:18px}.cgx-head-btn.reload{min-width:58px;background:rgba(180,83,9,.30);color:#fef3c7;border-color:rgba(251,191,36,.30)}.cgx-head-btn.on{background:rgba(96,165,250,.22);color:#dbeafe;border-color:rgba(147,197,253,.54)}.cgx-head-btn.dot{font-size:16px;line-height:16px;color:#fecdd3;border-color:rgba(255,23,68,.60);background:rgba(255,23,68,.16)}.cgx-head-btn:hover,.cgx-export:hover,.cgx-stop:hover,.cgx-range:hover,.cgx-step:hover,.cgx-choice:hover,.cgx-small:hover,.cgx-mini-main:hover,.cgx-button-exp:hover{border-color:rgba(96,165,250,.66);background:rgba(96,165,250,.18)}.cgx-status-line{display:grid;grid-template-columns:auto 1fr;gap:6px;align-items:center;margin:5px 0 7px;padding:5px 7px;border-radius:9px;background:rgba(37,99,235,.14);border:1px solid rgba(96,165,250,.18);color:#cbd5e1;overflow:hidden}.cgx-status-line strong{min-width:0;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;color:#dbeafe}.cgx-section{margin-top:6px;padding:3px 2px 1px;color:#93c5fd;font-size:10px;font-weight:900}.cgx-ranges{display:grid;gap:4px;margin-top:3px}.cgx-range{width:100%;min-height:26px;border-radius:9px;padding:5px 7px;text-align:left}.cgx-range.selected{background:rgba(96,165,250,.24);color:#dbeafe;border-color:rgba(147,197,253,.58)}.cgx-row{display:grid;align-items:center;gap:5px;margin-top:5px}.cgx-row.yesno{grid-template-columns:1fr auto auto}.cgx-row.target{grid-template-columns:.8fr 1fr auto auto}.cgx-label{min-width:0;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;color:#d1d5db;font-weight:700}.cgx-label.full{white-space:normal;overflow:visible;text-overflow:clip}.cgx-number-block{display:grid;gap:4px;margin-top:7px}.cgx-number-controls{display:flex;align-items:center;gap:5px}.cgx-step{min-width:28px;height:27px;padding:3px 6px;border-radius:9px}.cgx-input{width:34px;height:27px;padding:3px 4px;border-radius:9px;background:rgba(96,165,250,.18);border:1px solid rgba(96,165,250,.28);color:#dbeafe;font-size:11px;font-weight:900;text-align:center;outline:none}.cgx-input.timeout{width:54px}.cgx-input.small{width:34px}.cgx-unit{min-width:12px;color:#dbeafe;font-size:10px;font-weight:900}.cgx-choice{min-width:38px;padding:5px 7px;border-radius:9px}.cgx-choice.yes{background:rgba(16,185,129,.78);color:#06281e;border-color:rgba(52,211,153,.50)}.cgx-choice.no{background:rgba(248,113,113,.74);color:#3b0606;border-color:rgba(248,113,113,.55)}.cgx-actions{display:grid;grid-template-columns:1fr .75fr;gap:6px;margin-top:8px}.cgx-export,.cgx-stop{min-height:29px;padding:6px 8px;border-radius:10px;font-size:11px}.cgx-export{background:rgba(96,165,250,.24);color:#dbeafe;border-color:rgba(147,197,253,.36)}.cgx-stop{background:rgba(248,113,113,.22);color:#fee2e2;border-color:rgba(248,113,113,.45)}.cgx-stop:disabled{opacity:.45;cursor:default}.cgx-dev-box{margin-top:7px}.cgx-dev-title{text-align:center;color:#bfdbfe;font-weight:1000;font-size:12px;margin:5px 0}.cgx-folder{min-width:0;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;padding:5px 7px;border-radius:9px;background:rgba(255,255,255,.055);border:1px solid rgba(255,255,255,.10);color:#cbd5e1;font-size:10px;font-weight:800}.cgx-small{min-height:25px;padding:4px 7px;border-radius:8px;font-size:10px}.cgx-logs{margin-top:6px;padding:6px;max-height:150px;overflow:auto;border-radius:10px;background:rgba(15,23,42,.92);border:1px solid rgba(96,165,250,.20);color:#cbd5e1;font-size:9px;white-space:pre-wrap;user-select:text}.cgx-mini-wrap{display:grid;gap:4px}.cgx-mini-top{display:grid;grid-template-columns:1fr auto auto;gap:3px;align-items:center}.cgx-mini-title{font-size:9px;font-weight:1000;color:#fecdd3;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}.cgx-mini-top .cgx-head-btn{min-width:18px;width:18px;height:18px;line-height:16px;padding:0;font-size:10px}.cgx-mini-top .dot{font-size:14px}.cgx-mini-main{width:100%;min-height:28px;border-radius:8px;background:rgba(96,165,250,.24);color:#dbeafe;border-color:rgba(147,197,253,.36);font-size:10px}.cgx-mini-range{display:grid;grid-template-columns:1fr 1fr 1fr;gap:3px}.cgx-mini-range .cgx-range{min-height:20px;padding:3px 2px;text-align:center;font-size:7.5px;border-radius:7px}.cgx-mini-msg-row,.cgx-mini-loc-row{display:grid;grid-template-columns:1fr auto auto auto;gap:3px;align-items:center}.cgx-mini-loc-row{grid-template-columns:1fr auto auto}.cgx-mini-label{font-size:8px;font-weight:1000;color:#a7f3d0}.cgx-mode-mini .cgx-step{min-width:21px;width:21px;height:21px;padding:0;border-radius:7px;font-size:10px}.cgx-mode-mini .cgx-choice{min-width:29px;height:21px;padding:0 3px;font-size:8px;border-radius:7px}.cgx-mode-mini .cgx-input{width:31px;height:21px;padding:1px;font-size:9px;border-radius:7px}.cgx-status.mini{min-height:14px;border-radius:7px;background:rgba(255,255,255,.055);border:1px solid rgba(255,255,255,.10);color:#cbd5e1;text-align:center;font-size:8px;font-weight:900;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}.cgx-footer-mini{text-align:center;color:#dbeafe;font-size:7.5px;font-weight:900;line-height:1.1;border-top:1px solid rgba(255,255,255,.10);padding-top:3px}.cgx-button-shell{display:grid;grid-template-columns:1fr;gap:0}.cgx-button-exp{width:54px;height:44px;border-radius:9px;border:1px solid rgba(255,23,68,.96);background:rgba(12,18,28,.98);color:#fecdd3;font-size:13px;font-weight:1000;box-shadow:inset 0 0 0 1px rgba(255,23,68,.18),0 0 10px rgba(255,23,68,.18)}.cgx-button-exp.running{background:rgba(96,165,250,.24);color:#dbeafe}
+
+#cgx-widget.cgx-mode-maxi .cgx-resize-handle{position:absolute;z-index:5;display:block;background:transparent}
+#cgx-widget.cgx-mode-maxi .cgx-resize-n{left:14px;right:14px;top:0;height:7px;cursor:ns-resize}
+#cgx-widget.cgx-mode-maxi .cgx-resize-s{left:14px;right:14px;bottom:0;height:7px;cursor:ns-resize}
+#cgx-widget.cgx-mode-maxi .cgx-resize-e{top:14px;right:0;bottom:14px;width:7px;cursor:ew-resize}
+#cgx-widget.cgx-mode-maxi .cgx-resize-w{top:14px;left:0;bottom:14px;width:7px;cursor:ew-resize}
+#cgx-widget.cgx-mode-maxi .cgx-resize-ne{top:0;right:0;width:16px;height:16px;cursor:nesw-resize}
+#cgx-widget.cgx-mode-maxi .cgx-resize-nw{top:0;left:0;width:16px;height:16px;cursor:nwse-resize}
+#cgx-widget.cgx-mode-maxi .cgx-resize-se{right:1px;bottom:1px;width:16px;height:16px;cursor:nwse-resize;border-right:2px solid rgba(147,197,253,.50);border-bottom:2px solid rgba(147,197,253,.50);border-radius:0 0 10px 0}
+#cgx-widget.cgx-mode-maxi .cgx-resize-sw{left:0;bottom:0;width:16px;height:16px;cursor:nesw-resize}
+#cgx-widget.cgx-mode-mini .cgx-resize-handle,#cgx-widget.cgx-mode-button .cgx-resize-handle{display:none}
+
+
+/* v3.1.11 - Les journaux développeur s’adaptent à la hauteur du panneau Maxi redimensionné */
+#cgx-widget.cgx-mode-maxi.cgx-dev{
+  display:flex;
+  flex-direction:column;
+  overflow:hidden;
+}
+#cgx-widget.cgx-mode-maxi:not(.cgx-dev){
+  overflow:auto;
+}
+#cgx-widget.cgx-mode-maxi.cgx-dev .cgx-header,
+#cgx-widget.cgx-mode-maxi.cgx-dev .cgx-status-line,
+#cgx-widget.cgx-mode-maxi.cgx-dev .cgx-section,
+#cgx-widget.cgx-mode-maxi.cgx-dev .cgx-ranges,
+#cgx-widget.cgx-mode-maxi.cgx-dev .cgx-number-block,
+#cgx-widget.cgx-mode-maxi.cgx-dev .cgx-row,
+#cgx-widget.cgx-mode-maxi.cgx-dev .cgx-actions{
+  flex:0 0 auto;
+}
+#cgx-widget.cgx-mode-maxi.cgx-dev .cgx-dev-box{
+  flex:1 1 auto;
+  min-height:0;
+  display:flex;
+  flex-direction:column;
+  overflow:hidden;
+}
+#cgx-widget.cgx-mode-maxi.cgx-dev .cgx-dev-title,
+#cgx-widget.cgx-mode-maxi.cgx-dev .cgx-dev-box > .cgx-number-block,
+#cgx-widget.cgx-mode-maxi.cgx-dev .cgx-dev-box > .cgx-row.target{
+  flex:0 0 auto;
+}
+#cgx-widget.cgx-mode-maxi.cgx-dev .cgx-logs{
+  flex:1 1 auto;
+  min-height:90px;
+  max-height:none;
+  overflow:auto;
+}
+
+
+/* v3.1.11 - Le panneau Maxi utilisateur peut être réduit horizontalement sous l’ancienne limite de 326 px */
+#cgx-widget.cgx-mode-maxi{
+  min-width:248px;
+}
+#cgx-widget.cgx-mode-maxi:not(.cgx-dev){
+  width:274px;
+  min-width:248px;
+}
+#cgx-widget.cgx-mode-maxi.cgx-dev{
+  width:314px;
+  min-width:300px;
+}
+
+
+/* v4.0.3 - Options d’export par défaut : export complet + Enregistrer sous = Oui ; le mode Bouton force l’export complet + Enregistrer sous dans le JS. */
+
+/* v5.0.1 - Sélecteur Projet complet uniquement côté interface. Réutilise les couleurs et le style des boutons de la v4.0.7. */
+.cgx-mini-project{width:100%;min-height:20px;padding:3px 2px;text-align:center;font-size:7.5px;border-radius:7px}

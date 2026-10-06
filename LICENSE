@@ -1,0 +1,306 @@
+==============================================================================
+Document       : LICENSE
+Projet         : ChatGPT Export
+Dépôt          : brave-extension-ChatGPT-Export-public-with-all-fr
+Auteur         : Bruno DELNOZ
+Développeur    : @NoXoZ.be
+Email          : bruno.delnoz@protonmail.com
+Copyright      : © Bruno DELNOZ - NoXoZ.be
+Version        : v7.0.0
+Date           : 2026-09-22
+Statut         : Version publique
+Langue         : Français
+Licence        : NoXoZ Personal License v1.0
+==============================================================================
+
+NOXOZ PERSONAL LICENSE v1.0
+
+Copyright © 2026 Bruno DELNOZ / @NoXoZ.be
+Tous droits réservés.
+
+1. OBJET
+
+La présente licence régit le code source, le package de l’extension de
+navigateur, la documentation, les images, les icônes, les éléments
+d’interface, les archives de version et les autres éléments distribués dans le
+cadre de ChatGPT Export, collectivement désignés comme le « Logiciel ».
+
+Le Logiciel est propriétaire et son code source est consultable.
+
+Il n’est pas publié en tant que logiciel open source, logiciel libre, logiciel
+du domaine public ou logiciel placé sous une licence approuvée par l’OSI.
+
+2. CONCÉDANT
+
+Le concédant et titulaire des droits d’auteur est :
+
+Bruno DELNOZ
+Identité développeur : @NoXoZ.be
+Belgique
+Email : bruno.delnoz@protonmail.com
+
+3. LICENCE LIMITÉE POUR USAGE PERSONNEL
+
+Sous réserve du respect intégral de la présente licence, le Concédant accorde à
+un utilisateur individuel une licence limitée, personnelle, non exclusive, non
+transférable, ne pouvant faire l’objet d’une sous-licence et révocable lui
+permettant de :
+
+a. accéder au code source officiel et le lire ;
+b. télécharger la version officielle non modifiée depuis le dépôt officiel ;
+c. installer le Logiciel officiel non modifié sur des appareils contrôlés
+   personnellement par cet utilisateur ;
+d. exécuter et utiliser le Logiciel officiel non modifié à des fins
+   personnelles et non commerciales ;
+e. conserver des copies de sauvegarde locales raisonnables pour ce même usage
+   personnel autorisé.
+
+Aucun droit de propriété n’est transféré.
+
+Tous les droits non expressément accordés restent réservés au Concédant.
+
+4. SOURCE OFFICIELLE
+
+Le dépôt public officiel de cette édition française est :
+
+https://github.com/bdelnoz/brave-extension-ChatGPT-Export-public-with-all-fr
+
+Une copie obtenue auprès d’une autre source n’est pas automatiquement une copie
+officielle.
+
+Le Concédant n’autorise pas les tiers à présenter comme versions officielles
+des miroirs, archives reconditionnées, builds modifiés, publications dans des
+stores de navigateurs ou copies redistribuées.
+
+5. ACTIONS INTERDITES
+
+Sauf autorisation écrite préalable, spécifique, du Concédant, vous ne pouvez
+pas :
+
+a. vendre, louer, donner en location, concéder sous licence ou sous-licence,
+   monétiser ou exploiter commercialement le Logiciel ;
+b. facturer l’accès au Logiciel ou l’inclure dans un produit payant, un service
+   payant, un abonnement, une prestation de conseil, un service géré, une
+   formation ou une offre commerciale groupée ;
+c. redistribuer, republier, mettre en miroir, réhéberger, partager, transmettre
+   ou fournir à des tiers des copies du Logiciel, de son archive de version ou
+   de parties substantielles de son code source ;
+d. téléverser, soumettre, référencer ou publier le Logiciel sur le Chrome Web
+   Store, Edge Add-ons, Firefox Add-ons, un autre store de navigateur, un store
+   d’applications, un registre de packages, un site de téléchargement ou un
+   catalogue de logiciels ;
+e. modifier, adapter, traduire, porter, forker en vue d’une publication
+   indépendante, rétroconcevoir, décompiler, désassembler ou créer des œuvres
+   dérivées destinées à un usage ou une distribution en dehors du processus
+   limité de contribution décrit à la Section 7 ;
+f. publier, distribuer ou mettre à disposition une version modifiée ;
+g. supprimer, masquer, altérer, remplacer ou présenter de manière inexacte les
+   mentions de copyright, la paternité, l’identité du développeur, les mentions
+   de licence, les coordonnées, les informations de version ou l’attribution ;
+h. renommer le Logiciel et le présenter comme votre propre projet ;
+i. utiliser les noms NoXoZ, NoXoZ.be, ChatGPT Export, Bruno DELNOZ, le logo du
+   projet, les icônes ou d’autres identifiants du projet pour approuver ou
+   promouvoir un autre produit sans autorisation ;
+j. intégrer le Logiciel ou son code source dans une autre extension,
+   application, produit, service, équipement ou offre commerciale ;
+k. utiliser le Logiciel pour fournir une offre hébergée, gérée, partagée,
+   revendue, en marque blanche ou de type logiciel en tant que service
+   (SaaS) ;
+l. revendiquer une propriété, une paternité originale, un parrainage, une
+   affiliation ou une approbation officielle qui n’a pas été accordée par le
+   Concédant.
+
+6. AUCUN DROIT DE REDISTRIBUTION
+
+Le téléchargement du Logiciel n’accorde aucun droit de le distribuer.
+
+Un utilisateur souhaitant recommander le Logiciel peut partager l’URL du dépôt
+officiel.
+
+Un utilisateur ne peut pas partager une copie de l’archive ZIP, un répertoire
+reconditionné, une archive modifiée, un miroir, un binaire ou un téléchargement
+alternatif.
+
+7. CONTRIBUTIONS, DEMANDES DE CORRECTION ET DEMANDES DE TRADUCTION
+
+Les utilisateurs peuvent soumettre :
+
+a. des rapports de bogues ;
+b. des demandes de correction ;
+c. des propositions de fonctionnalités ;
+d. des demandes de contribution ;
+e. des demandes de traduction ;
+f. des correctifs ou pull requests préparés uniquement pour examen par le
+   Concédant.
+
+Une soumission ne garantit pas son acceptation.
+
+Le Concédant décide seul si une proposition, correction, contribution,
+correctif ou traduction est acceptée, rejetée, réécrite, reportée ou intégrée.
+
+L’autorisation de soumettre une proposition n’accorde pas l’autorisation de
+publier, redistribuer, maintenir ou promouvoir une version modifiée.
+
+Une personne préparant un correctif ou une traduction uniquement en vue de sa
+soumission au Concédant peut effectuer les modifications temporaires minimales
+nécessaires à cette soumission, à condition que la version modifiée ne soit pas
+par ailleurs publiée, distribuée, vendue, déployée comme produit distinct ou
+présentée comme une version officielle.
+
+Le Concédant peut exiger des conditions distinctes écrites pour les
+contributeurs avant d’accepter ou de distribuer une contribution.
+
+8. CONSULTATION ET FORK SUR GITHUB
+
+La publication dans un dépôt GitHub public permet aux utilisateurs de GitHub de
+consulter le dépôt et peut permettre un fork technique conformément aux
+Conditions d’utilisation de la plateforme GitHub.
+
+La présente licence n’accorde aucun droit supplémentaire de redistribuer,
+publier, commercialiser, diffuser, maintenir, renommer ou distribuer
+indépendamment un fork.
+
+Un fork technique ne devient pas une version publique autorisée, un miroir
+officiel ou un produit faisant l’objet d’une licence distincte.
+
+9. USAGE PERSONNEL ET NON COMMERCIAL
+
+« Usage personnel » désigne l’utilisation par une personne physique pour ses
+propres besoins privés et non commerciaux.
+
+« Usage commercial » comprend toute utilisation principalement destinée à
+obtenir un avantage commercial, une rémunération, des revenus professionnels,
+une prestation professionnelle payante, une intégration dans un produit, une
+livraison à un client, une revente, un abonnement, des recettes publicitaires
+ou tout autre avantage financier direct ou indirect.
+
+L’utilisation par une entreprise, un employeur, une organisation, une autorité
+publique, un établissement d’enseignement, une association ou une autre
+personne morale ne constitue pas automatiquement un usage personnel et requiert
+une autorisation écrite, sauf indication explicite contraire du Concédant.
+
+10. SERVICES TIERS
+
+Le Logiciel interagit avec des interfaces web de navigateurs et d’IA fournies
+par des tiers.
+
+La présente licence n’accorde aucun droit sur les services, sites web, marques,
+logiciels, contenus ou API de tiers.
+
+ChatGPT Export est un projet indépendant. Il n’est pas affilié à OpenAI, ni
+approuvé, sponsorisé ou développé par OpenAI.
+
+Les utilisateurs restent responsables du respect des conditions, politiques,
+autorisations, modalités d’abonnement et lois applicables à chaque service
+tiers qu’ils utilisent.
+
+11. CONFIDENTIALITÉ ET DONNÉES
+
+Le Concédant n’accorde aucune autorisation de modifier le Logiciel afin de
+collecter, revendre, divulguer ou exploiter les données des utilisateurs.
+
+Le Logiciel est fourni pour être utilisé avec des sites web d’IA tiers. Les
+données soumises à ces sites restent soumises à leurs propres conditions et
+politiques de confidentialité.
+
+12. ABSENCE DE GARANTIE
+
+LE LOGICIEL EST FOURNI « EN L’ÉTAT » ET « SELON DISPONIBILITÉ », SANS GARANTIE
+D’AUCUNE SORTE, EXPRESSE OU IMPLICITE, Y COMPRIS, SANS S’Y LIMITER, LES
+GARANTIES DE QUALITÉ MARCHANDE, D’ADÉQUATION À UN USAGE PARTICULIER, DE
+NON-CONTREFAÇON, DE COMPATIBILITÉ, DE DISPONIBILITÉ, DE FIABILITÉ, DE SÉCURITÉ
+OU DE FONCTIONNEMENT SANS ERREUR.
+
+LES INTERFACES DES SITES WEB PEUVENT CHANGER SANS PRÉAVIS.
+
+LE CONCÉDANT NE GARANTIT PAS QUE LE LOGICIEL CONTINUERA À FONCTIONNER AVEC
+CHAQUE VERSION DE NAVIGATEUR, SYSTÈME D’EXPLOITATION, SITE WEB D’IA, LANGUE,
+TYPE DE COMPTE OU MISE À JOUR D’INTERFACE.
+
+13. LIMITATION DE RESPONSABILITÉ
+
+DANS TOUTE LA MESURE PERMISE PAR LA LOI APPLICABLE, LE CONCÉDANT NE POURRA ÊTRE
+TENU RESPONSABLE D’AUCUN DOMMAGE DIRECT, INDIRECT, ACCESSOIRE, SPÉCIAL,
+EXEMPLAIRE, CONSÉCUTIF OU AUTRE, Y COMPRIS LA PERTE DE DONNÉES, LA PERTE
+D’ACCÈS, LA PERTE DE REVENUS, LA PERTE D’ACTIVITÉ, LES PROBLÈMES D’APPAREIL OU
+DE NAVIGATEUR, LES RESTRICTIONS DE COMPTE OU LES ACTIONS DE SERVICES TIERS
+RÉSULTANT DU LOGICIEL OU DE SON UTILISATION, OU S’Y RAPPORTANT.
+
+Aucune disposition de la présente licence n’exclut une responsabilité qui ne
+peut légalement être exclue en vertu du droit applicable.
+
+14. RESPONSABILITÉ DE L’UTILISATEUR
+
+L’utilisateur est responsable de :
+
+a. vérifier le code source et les autorisations demandées avant l’installation ;
+b. installer uniquement une copie officielle ;
+c. maintenir des sauvegardes ;
+d. choisir les modes d’export, les options de regroupement des fichiers, les
+   emplacements cibles et les paramètres Développeur appropriés ;
+e. vérifier les messages et les fichiers avant leur envoi ;
+f. respecter les conditions des tiers et la législation applicable ;
+g. protéger les informations privées, les identifiants et les données
+   confidentielles.
+
+15. RÉSILIATION
+
+Toute violation de la présente licence met automatiquement fin aux
+autorisations accordées par la Section 3.
+
+Après résiliation, l’utilisateur doit cesser d’utiliser le Logiciel et supprimer
+toutes les copies, sauf lorsqu’une conservation est imposée par la loi
+applicable.
+
+Les sections relatives à la propriété, aux restrictions, à la garantie, à la
+responsabilité, au droit applicable et aux droits réservés survivent à la
+résiliation.
+
+16. EXCEPTIONS ET AUTORISATION COMMERCIALE
+
+Toute exception, autorisation commerciale, autorisation de redistribution,
+autorisation de traduction, autorisation d’intégration ou autorisation de créer
+une œuvre dérivée doit être accordée dans un accord écrit distinct, signé ou
+explicitement confirmé par écrit par le Concédant.
+
+Le silence, la visibilité du dépôt, une discussion dans une issue,
+l’acceptation de retours ou le fait de ne pas appliquer une restriction une
+fois ne constitue ni une autorisation ni une renonciation.
+
+17. DROIT APPLICABLE
+
+La présente licence est régie par les lois de la Belgique, sans préjudice des
+règles impératives de protection des consommateurs ou autres règles
+légalement applicables.
+
+Tout litige sera traité par les juridictions compétentes en vertu du droit belge
+applicable, sauf disposition impérative contraire.
+
+18. DIVISIBILITÉ
+
+Si une disposition est jugée invalide ou inapplicable, les autres dispositions
+restent en vigueur dans toute la mesure permise par la loi.
+
+Une disposition invalide doit être interprétée aussi fidèlement que
+juridiquement possible à son objectif de protection initial.
+
+19. INTÉGRALITÉ DE LA LICENCE
+
+Le présent document contient l’intégralité de l’octroi de licence applicable à
+la version publique v7.0.0, sauf si un accord écrit distinct signé ou
+explicitement confirmé par le Concédant s’applique.
+
+Les descriptions du dépôt, le texte du README, les discussions, issues, emails
+et déclarations informelles n’étendent pas les droits accordés par la présente
+licence, sauf s’ils indiquent explicitement qu’ils modifient cette licence.
+
+20. CONTACT
+
+Les demandes d’autorisation, de contribution, de traduction et les questions
+relatives à la licence peuvent être envoyées à :
+
+Bruno DELNOZ
+Identité développeur : @NoXoZ.be
+Email : bruno.delnoz@protonmail.com
+
+FIN DE LA NOXOZ PERSONAL LICENSE v1.0
