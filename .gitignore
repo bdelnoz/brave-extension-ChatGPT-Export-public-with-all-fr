@@ -1,0 +1,56 @@
+# ========================================
+# ChatGPT Export - .gitignore
+# Release: v7.0.0
+# ========================================
+
+# Runtime / temporary files
+*.pid
+*.tmp
+*.swp
+*-swp
+*.bak
+*.log
+*.db
+__pycache__/
+
+# Local outputs
+logs/
+output/
+infos/
+result/
+results/
+uploads/
+creation_log/
+
+# Archives / packaged builds
+
+*.tar.gz
+*.rar
+.zip/
+
+# Local generated exports
+.exported_chats/
+
+# Local docs / old work folders
+.old/
+.docs/
+.tmp/
+.log/
+
+# Secrets / private material
+certs/
+secrets/
+.secrets/
+.private/
+_RULES_PRIVATE_*
+
+# Local planning / personal notes
+TODO.md
+# PROJECT SPECIFIC
+uploads
+__pycache__
+creation_log
+# Template: shell
+# Added: 2026-02-04 22:19:59
+.secrets
+*.zip
